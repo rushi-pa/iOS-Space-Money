@@ -31,4 +31,6 @@ The Account number entered is automatically spaced after every 4 number entered 
 Application asthetics colour such as navigation bar titlt colour, Label colour input field box colour, user and key image colour will change according to the bank's primary colour such as RBC will use blue, Scotiabank will use red, TD green and so on.
 
 Further application and non-functional requirments will be uploaded  with project proposal.
-Application still under construction.
+
+
+**** Application still under construction. ****
