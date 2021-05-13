@@ -28,5 +28,7 @@ Once the user select the bank of their choice they will have certain option's pr
 <img width="386" alt="Screen Shot 2021-05-12 at 9 47 43 PM" src="https://user-images.githubusercontent.com/63312395/118065865-b4bba100-b36b-11eb-90bb-920e68354edf.png">
 The Account number entered is automatically spaced after every 4 number entered to provide suitable view.<img width="386" alt="Screen Shot 2021-05-12 at 9 50 42 PM" src="https://user-images.githubusercontent.com/63312395/118066114-209e0980-b36c-11eb-83cf-c52c22e7eb68.png">
 
+Application asthetics colour such as navigation bar titlt colour, Label colour input field box colour, user and key image colour will change according to the bank's primary colour such as RBC will use blue, Scotiabank will use red, TD green and so on.
 
-Further application and non-functional requirments will be uploade with project proposal.
+Further application and non-functional requirments will be uploaded  with project proposal.
+Application still under construction.
