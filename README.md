@@ -17,7 +17,8 @@ This application is supposed to make a banking application which will allow user
 - XCUITest
 
 
-The main Page of the aaplication allows user to select bank of their choice. The application follows decent asthectics and allows user readability with navigation controller provided.<img width="386" alt="Screen Shot 2021-05-12 at 9 44 30 PM" src="https://user-images.githubusercontent.com/63312395/118065618-424ac100-b36b-11eb-8055-da41a57cf3e3.png">
+The main Page of the aaplication allows user to select bank of their choice. The application follows decent asthectics and allows user readability with navigation controller provided.
+<img width="386" alt="Screen Shot 2021-05-12 at 9 44 30 PM" src="https://user-images.githubusercontent.com/63312395/118065618-424ac100-b36b-11eb-8055-da41a57cf3e3.png">
 <img width="386" alt="Screen Shot 2021-05-12 at 9 47 13 PM" src="https://user-images.githubusercontent.com/63312395/118065828-a077a400-b36b-11eb-9457-d444d1a6ba74.png">
 
 Once the user select the bank of their choice they will have certain option's provided such as Login, forgot password and Sign-up.
